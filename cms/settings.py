@@ -6,8 +6,8 @@ DEBUG = False
 
 # PORTAL NAME, this is the portal title and
 # is also shown on several places as emails
-PORTAL_NAME = "MediaCMS"
-PORTAL_DESCRIPTION = ""
+PORTAL_NAME = "HSTV"
+PORTAL_DESCRIPTION = "Hstv Media House"
 LANGUAGE_CODE = "en-us"
 TIME_ZONE = "Europe/London"
 
@@ -16,7 +16,7 @@ TIME_ZONE = "Europe/London"
 CAN_ADD_MEDIA = "all"
 
 # valid choices here are 'public', 'private', 'unlisted
-PORTAL_WORKFLOW = "public"
+PORTAL_WORKFLOW = "private"
 
 # valid values: 'light', 'dark'.
 DEFAULT_THEME = "light"
